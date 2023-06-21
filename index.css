@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  background-color: rgb(35, 35, 35);
+}
+  
+body {
+  margin: 0;
+  display: flex;
+  
+  justify-content: center;
+  
+  align-items: center;
+}
+
+canvas {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: rosybrown;
+  border-width: 5px;
+}
